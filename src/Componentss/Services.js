@@ -16,13 +16,13 @@ const services = [
 
 const Services = () => {
   return (
-    <section className="services">
-      <div className="gd">
+    <>
+     <div className="gd">
         <div className="gd1"></div>
       </div>
-      <div>
+    <section className="services">
+     
       <h2>Services we offer</h2>
-      </div>
       <div className="services-list">
         {services.map((service, index) => (
           <div key={index} className="service-item">
@@ -45,10 +45,15 @@ const Services = () => {
       <div className='slide'>
         <img src={slider}></img>
       </div>
-      <div className="gdd">
+      {/* <div className="gdd">
+        <div className="gd11"></div>
+      </div> */}
+     
+    </section>
+    <div className="gdd">
         <div className="gd11"></div>
       </div>
-    </section>
+    </>
   );
 };
 

@@ -13,6 +13,9 @@ import mongodb from '../assets/images/MONOGOdb.png';
 function TechStacks() {
   return (
     <div className="App">
+      <div>
+        <hr></hr>
+      </div>
       <div className="tech-stack">
       <div className="line6"></div>
         <h1>Our <br></br><span>Tech Stack</span></h1>
@@ -40,6 +43,10 @@ function TechStacks() {
         <img src={golang} alt="Golang" />
         <img src={mongodb} alt="MongoDB" style={{width:"190px", height:"54px", marginTop:'1rem'}}/>
       </div>
+      </div>
+
+      <div>
+        <hr></hr>
       </div>
     </div>
   );

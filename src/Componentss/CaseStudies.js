@@ -99,6 +99,10 @@ const  CaseStudies= () => {
       <div className="more-studies">
         <a href="#">Read more case studies &gt;</a>
       </div>
+      
+      <div >
+      <hr style={{width:"100%"}}></hr>
+      </div>
     </div>
   );
 };

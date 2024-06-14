@@ -1,103 +1,3 @@
-/* .case-studies {
-    padding: 40px;
-    text-align: center;
-    background: #F7F7FA;
-
-  }
-  
-  .case-studies h2 {
-    font-size: 24px;
-    margin-bottom: 40px;
-  }
-  
-  .case-studies-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    border: 1px solid black;
-  }
-  
-  .case-study1 {
-    width: 100%;
-    margin: 20px 0;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #fff;
-    text-align: left;
-
-
-    width: 1232px;
-height: 416px;
-gap: 0px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
-border: 1px solid #E7DAED
-  }
-  
-  .case-study img {
-    width: 100%;
-    border-radius: 5px;
-    margin-bottom: 10px;
-  }
-  
-  .case-study h3 {
-    font-size: 18px;
-    margin-bottom: 10px;
-  }
-  
-  .case-study p {
-    font-size: 14px;
-    color: #666;
-    margin-bottom: 10px;
-  }
-  
-  .read-more {
-    text-decoration: none;
-    color: #007BFF;
-    font-weight: bold;
-  }
-  
-  .arr2{
-    width: 193.8px;
-height: 281.62px;
-margin-top: -800px;
-margin-left: 820px;
-gap: 0px;
-opacity: 0px;
-rotate: 175.85 deg;
-
-z-index: 1;
-  }
-
-
-  .cs-img{
-    width: 601px;
-height: 316px;
-top: 3814px;
-left: 104px;
-gap: 0px;
-border-radius: 10px 0px 0px 0px;
-opacity: 0px;
-display: grid;
-grid-template-columns: 1fr 1fr;
-  }
-
-  .cs-pg{
-    width: 423px;
-height: 316px;
-margin-top:-27.2rem;
-
-margin-left: auto;
-gap: 0px;
-border-radius: 0px 30px 30px 0px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
-background: #F1F2FF;
-
-  } */
-
-
   body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
@@ -248,13 +148,18 @@ z-index: 1;
 
 
   .case-study-one {
-    background-color: #e0f7fa; /* Light cyan background */
+    background-color: #e0f7fa; 
   }
   
   .case-study-two {
-    background-color: #e8f5e9; /* Light green background */
+    background-color: #e8f5e9; 
   }
   
   .case-study-three {
-    background-color: #fce4ec; /* Light pink background */
+    background-color: #fce4ec; 
   }
+
+
+
+
+

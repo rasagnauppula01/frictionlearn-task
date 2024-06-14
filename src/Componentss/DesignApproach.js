@@ -50,6 +50,9 @@ const DesignDev = () => {
 
   return (
     <div className="container">
+      <div>
+        <hr></hr>
+      </div>
       <div className="line7"></div>
       <h2>Our design and<br></br> <span>development approach</span></h2>
       <div className="features-grid">

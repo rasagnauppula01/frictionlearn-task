@@ -8,7 +8,7 @@ const Header = () => {
     <header className="header">
       <div className="logo">
         <img src={image1} width={190} height={65} ></img>
-        <span className='inspiration-regular' style={{}}>Ik developers</span>
+        <span className='inspiration-regular'>Ik developers</span>
       </div>
       <nav>
         <ul>
