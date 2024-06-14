@@ -53,7 +53,7 @@ const SoftwareCS = () => {
           <blockquote>
             <p>{study.quote}</p>
             <footer>
-                <img src={study.ceo} style={{height:"42px", width:"42px",marginLeft:"-29rem"}}></img>
+                <img src={study.ceo} alt={study.title} style={{height:"42px", width:"42px",marginLeft:"-29rem"}}></img>
               <strong>{study.author}</strong>, {study.position}
             </footer>
           </blockquote>

@@ -33,7 +33,7 @@ const PeopleWork = () => {
         <h2>Meet the People<br /><span >We are Working With</span></h2>
         <div>
         <div className='buttons'>
-          <img src={arrows}></img>
+          <img src={arrows} alt='arrow'></img>
         </div>
         <div className="gd3" style={{margin:"auto"}}>
           <div className="gd33"></div>
@@ -55,7 +55,7 @@ const PeopleWork = () => {
       </section>
          
       <section className="testimonials">
-        <div><img src={LeftBtn}></img></div>
+        <div><img src={LeftBtn} alt='leftbtn'></img></div>
         <div>
           <div>
             <p className='lineHr'></p>
@@ -110,7 +110,7 @@ const PeopleWork = () => {
           {/* <FaChevronRight className="carousel-arrow" /> */}
         </div>
         </div>
-        <div><img src={RightBtn}></img></div>
+        <div><img src={RightBtn} alt='rightbtn'></img></div>
         
       </section>
 
@@ -121,7 +121,7 @@ const PeopleWork = () => {
         <div className="line8"></div>
           <h2>Our recent<br /><span>Case studies</span></h2>
         </section>
-        <div><img  src={arrow2} style={{display:"flex", marginTop:"-25rem",marginLeft:"62rem",justifyContent:"space-evenly", alignItems:"center", gap:"2rem", position:"relative", zIndex:"1", marginBottom:"21rem", position:'absolute'}} ></img></div> 
+        <div><img  src={arrow2} alt='arrow2' style={{display:"flex", marginTop:"-25rem",marginLeft:"62rem",justifyContent:"space-evenly", alignItems:"center", gap:"2rem", position:"relative", zIndex:"1", marginBottom:"21rem", position:'absolute'}} ></img></div> 
       </div> 
     </div>
   );
