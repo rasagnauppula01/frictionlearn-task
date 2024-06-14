@@ -2,6 +2,7 @@ import React from 'react';
 import './Header.css';
 
 import image1 from "../assets/images/logo.png"
+import logoo from "../assets/images/Vector.png"
 
 const Header = () => {
 
@@ -9,7 +10,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo">
-        <img src={require("../assets/images/logo.png")} alt="logo1" width={190} height={65} ></img>
+        <img src={logoo} alt="logo1" width={25} height={35} ></img>
         <span className='inspiration-regular'>Ik developers</span>
       </div>
       <nav>
