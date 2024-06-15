@@ -12,20 +12,6 @@
   list-style: none;
 }
 .img-logo {
-  /* position: absolute;
-  left: 0%;
-  right: 77.8%;
-  top: 0%;
-  bottom: 10.03%;
-
-  background: linear-gradient(
-    270deg,
-    #161490 4.55%,
-    #7476ed 49.85%,
-    #e56f8c 93.3%
-  ); */
-  /* Vector */
-
   position: absolute;
   left: 0%;
   right: 77.8%;
@@ -109,4 +95,5 @@
 }
 .logo span {
   margin-left: 4.9rem;
+  margin-top: -2.5rem;
 }
