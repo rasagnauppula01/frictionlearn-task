@@ -1,10 +1,9 @@
+// import arrow1 from "../assets/images/Deco-img-arrow.png"
+// import arrow2 from "../assets/images/Deco-img-arrow (1).png"
 
-import arrow1 from "../assets/images/Deco-img-arrow.png"
-import arrow2 from "../assets/images/Deco-img-arrow (1).png"
-
-import CaseSt1 from "../assets/images/Case-study__image.png"
-import CaseSt2 from "../assets/images/Case-study__image (1).png"
-import CaseSt3 from "../assets/images/Case-study__image (2).png" 
+import CaseSt1 from "../assets/images/CaseStudy1.png"
+import CaseSt2 from "../assets/images/CaseStudy2.png"
+import CaseSt3 from "../assets/images/CaseStudy3.png" 
 
 
 
